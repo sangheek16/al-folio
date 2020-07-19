@@ -3,13 +3,12 @@
 # -----------------------------------------------------------------------------
 
 title: Sanghee J. Kim
-email: sangheekim@uchicago.edu 
+email: sangheekim@uchicago.edu
 description: > # this means to ignore newlines until "url:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
-footer_text: >
+footer_text: > # Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 
 url:  # the base hostname & protocol for your site
 baseurl: # /al-folio # the subpath of your site, e.g. /blog/
@@ -36,7 +35,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: # your GitHub user name
+github_username: sangheek16 # your GitHub user name
 twitter_username: # your Twitter handle
 linkedin_username: # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
@@ -56,8 +55,8 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio  # your blog must have a name for it to show up in the nav bar
-blog_description: a simple whitespace theme for academics
+blog_name: Sanghee J. Kim  # your blog must have a name for it to show up in the nav bar
+blog_description: Blog about linguistics and interdisciplinary fields
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -65,7 +64,7 @@ pagination:
   enabled: true
 
 # Comments
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: sanghee j. kim # put your disqus shortname
 
 # -----------------------------------------------------------------------------
 # Collections
