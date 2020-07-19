@@ -46,8 +46,8 @@ publons_id: # your ID on Publons
 research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
 
-contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+contact_note: # >
+  # You can even add a little note about which of these is the best way to reach you.
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 
@@ -55,16 +55,17 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Sanghee J. Kim  # your blog must have a name for it to show up in the nav bar
-blog_description: Blog about linguistics and interdisciplinary fields
-permalink: /blog/:year/:title/
+## Uncomment the three lines below if you want to re-activate Blog navi-bar
+# blog_name: Sanghee J. Kim  # your blog must have a name for it to show up in the nav bar
+# blog_description: A blog about linguistics and interdisciplinary fields
+# permalink: /blog/:year/:title/
 
 # Pagination
 pagination:
   enabled: true
 
 # Comments
-disqus_shortname: sanghee j. kim # put your disqus shortname
+disqus_shortname: sanghee-kim # put your disqus shortname
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -79,6 +80,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  resource:
+    output: true
+    permalink: /resource/:path/
 
 news_limit: 5
 

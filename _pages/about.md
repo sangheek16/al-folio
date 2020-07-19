@@ -16,11 +16,17 @@ news: true
 social: true
 ---
 
-Hello! I’m a second year Linguistics PhD student at [the University of Chicago](https://linguistics.uchicago.edu/). I’m also a lab member of [Ming Xiang](https://lucian.uchicago.edu/blogs/mingxiang/)’s [Language Processing Laboratory](https://lucian.uchicago.edu/blogs/lpl/).
+&nbsp;
+
+Hello!
+
+I am a second year Linguistics PhD student at [the University of Chicago](https://linguistics.uchicago.edu/). I am also a lab member of [Ming Xiang](https://lucian.uchicago.edu/blogs/mingxiang/)’s [Language Processing Laboratory](https://lucian.uchicago.edu/blogs/lpl/).
 
 I mainly do psycholinguistics with a focus on semantics & pragmatics. My research interest is on language representation, language processing mechanisms, and their intertwined relationship. I am also interested in computational modeling of language comprehension.
 
 In the past, I have worked on reflexive resolution, relative clause processing, and sentence production related to thematic roles. I have a B.A. in Second Language Acquisition and Teaching, and I have worked on second language learners’ acquisition and processing of morphology and article system.
+
+&nbsp;
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
