@@ -24,7 +24,9 @@ I am a second year Linguistics PhD student at [the University of Chicago](https:
 
 I mainly do psycholinguistics with a focus on semantics & pragmatics. My research interest is on language representation, language processing mechanisms, and their intertwined relationship. I am also interested in computational modeling of language comprehension.
 
-In the past, I have worked on reflexive resolution, relative clause processing, and sentence production related to thematic roles. I have a B.A. in Second Language Acquisition and Teaching, and I have worked on second language learners’ acquisition and processing of morphology and article system.
+I have a B.A. in Second Language Acquisition and Teaching, and in the past, I have worked on second language learners’ acquisition and processing of morphology and article system.
+
+<b>How to pronounce 'Sanghee'</b>: [[Korean version](/assets/audio/sanghee.m4a)] [[Easier version](/assets/audio/sanghee_eng.m4a)] [sɑŋhi] (ɑ for 'father')
 
 &nbsp;
 
