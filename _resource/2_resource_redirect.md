@@ -1,9 +1,9 @@
 ---
 layout: page
-title: My Tool Wiki
-description: my personal collection that includes all the links I referred to while using Python, Github, R Studio, and LaTex. my tool wiki gets updated time to time. Links for Matlab, HTML, JavaScript and others, more to come.
-img: /assets/img/robot-emoji.png
-redirect: https://www.notion.so/6b4c897e914d4c2aaf8fdf9984973a26?v=3c336fc05fff4ac7bdfb4c4b8c4b1265
+title: Journal Scraping
+description: my preliminary Python code to extract key words and build word cloud from psycholinguistics journals (ver. July 25; currently only includes JML)
+img: /assets/img/cloud-with-lightning-emoji.png
+redirect: https://github.com/sangheek16/scraping-journal
 importance: 3
 ---
 

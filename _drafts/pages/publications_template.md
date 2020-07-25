@@ -7,6 +7,14 @@ years: [1956, 1950, 1935, 1905]
 nav: true
 ---
 
+<!--
+1. change last name in _config.yml > scholar: > last_name
+2. change years in the front matter of this .md: to the years of your publications
+3. include your "papers.bib" file in the _bibliography folder
+  3.1 include the relevant classes if you wish (e.g., abbr, abstract, html, pdf)
+-->
+
+<h2> Publications </h2>
 <div class="publications">
 
 {% for y in page.years %}
