@@ -5,8 +5,8 @@ permalink: /
 description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
-  align: right
-  image: profile_green.jpg
+  # align: right
+  # image: profile_green.jpg
   # address: >
   #  <p>555 your office number</p>
   #  <p>123 your address street</p>

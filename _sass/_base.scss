@@ -261,7 +261,7 @@ footer.sticky-bottom {
     }
   }
   .card img {
-    width: 100%;
+    width: 50% // 100%;
   }
 }
 
@@ -273,7 +273,7 @@ footer.sticky-bottom {
     color: $grey-color-light;
     border-top: 1px solid $grey-color-light;
     padding-top: 1rem;
-    margin-top: 2rem;
+    margin-top: 0rem;
     margin-bottom: -2rem;
     text-align: right;
   }
