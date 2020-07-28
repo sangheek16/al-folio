@@ -26,7 +26,7 @@ I mainly do psycholinguistics with a focus on semantics & pragmatics. My researc
 
 I have a B.A. in Second Language Acquisition and Teaching. In the past, I have worked on L2 processing, including reflexive resolution, and acquisition of morphological and article system.
 
-<b>How to pronounce 'Sanghee'</b>: [[Korean version](/assets/audio/sanghee.m4a)] [[Easier version](/assets/audio/sanghee_eng.m4a)] [sɑŋhi] (ɑ for 'father')
+<b>How to pronounce 'Sanghee'</b>: [sɑŋhi] (ɑ for 'father')[[Korean version](/assets/audio/sanghee.m4a)] [[Easier version](/assets/audio/sanghee_eng.m4a)] 
 
 &nbsp;
 
