@@ -18,14 +18,16 @@
  }
 
 .container {
-  max-width: 700px // $max-content-width;
+  max-width: 1000px // $max-content-width;
 }
 
 // Profile
 .profile {
   img {
-    width: 80%;
+    width: 60%;
   }
+  padding-top: 56px;
+  padding-left: 20px;
 }
 
 // TODO: redefine content layout.
