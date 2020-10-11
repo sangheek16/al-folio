@@ -13,7 +13,7 @@ nav: true
 <br>
 <h3> Current projects </h3>
 
-I mainly do psycholinguistics, with a focus on semantics and pragmatics. I am particularly interested in sentence processing, and cognitive modeling. I also work on the evaluation linguistic interpretability of language models as a side project. Click the toggle button to learn more about my ongoing projects.
+I mainly do psycholinguistics, with a focus on semantics and pragmatics. I am particularly interested in sentence processing, and cognitive modeling. I also work on the evaluation of linguistic interpretability of language models. Click the toggle button to learn more about my ongoing projects.
 
 <details>
 <summary><b>Memory and (not-)at-issue content</b></summary>
@@ -40,7 +40,7 @@ I mainly do psycholinguistics, with a focus on semantics and pragmatics. I am pa
   </ul>
 
 <blockquote>
-I tested how well the existing compositionality functions capture compositionlaity in natural language, particularly concerning ‘adjective + noun’ phrases. I used four types of existing categorization of adjectives that exhibit a different inferential pattern--intersective, subsective, non-subsective, and privative. I used a constant noun that uniformly combines with these four types of adjectives. Based on the <code>word2vec</code> model (<a href="https://arxiv.org/abs/1301.3781">Mikolov et al. 2013</a>), I evaluated compositionality of variants of the weighted additive and the multiplicative model (e.g., Mitchell & Lapata <a href="https://www.aclweb.org/anthology/P08-1028/">2008</a>; <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/j.1551-6709.2010.01106.x">2010</a>). The correlation coefficients with the newly collected human behavior result were used as an evaluation metric. The results showed that a certain type of weighted additive model performs better than the multiplicative model in general. Crucially, the results showed that the models perform differently depending on the type of the adjectives, which serve as evidence that the compositionality function may/should be tuned according to the adjective type. *Manuscript available upon request.*
+I tested how well the existing compositionality functions capture compositionlaity in natural language, particularly concerning ‘adjective + noun’ phrases. I used four types of existing categorization of adjectives that exhibit a different inferential pattern--intersective, subsective, non-subsective, and privative. I used a constant noun that uniformly combines with these four types of adjectives. Based on the <code>word2vec</code> model (<a href="https://arxiv.org/abs/1301.3781">Mikolov et al. 2013</a>), I evaluated compositionality of variants of the weighted additive and the multiplicative model (e.g., Mitchell & Lapata <a href="https://www.aclweb.org/anthology/P08-1028/">2008</a>; <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/j.1551-6709.2010.01106.x">2010</a>). The correlation coefficients with the newly collected human behavior result were used as an evaluation metric. The results showed that a certain type of weighted additive model performs better than the multiplicative model in general. Crucially, the results showed that the models perform differently depending on the type of the adjectives, which serve as evidence that the compositionality function may/should be tuned according to the adjective type. <i>Manuscript available upon request.</i>
 </blockquote>
 
 <blockquote>
@@ -63,7 +63,7 @@ Following this finding, I plan to explore the lexical function approach (Guevara
 </blockquote>
 
 <blockquote>
-September 18, 2020: <a name="/news/lsa2021/">Our work has been accepted for a paper presentation at LSA 2021 Annual Meeting</a>
+[News] September 18, 2020: [Our work has been accepted for a paper presentation at LSA 2021 Annual Meeting](_news/2020-09-18-lsa2021.md)
 </blockquote>
 </details>
 
