@@ -45,6 +45,7 @@ I tested how well the existing compositionality functions capture compositionlai
 
 <blockquote>
 Following this finding, I plan to explore the lexical function approach (Guevara, 2010; Baroni and Zamparelli, 2010; Bride et al., 2015; Vecchi et al., 2017) in the future, as this method assumes different matrices for each adjective. I am also currently exploring the compositionality of the four types of adjectives by using contextualized word embeddings (e.g. Shwartz and Dagan, 2019).
+</blockquote>
 
 </details>
 
