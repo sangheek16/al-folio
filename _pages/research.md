@@ -63,7 +63,7 @@ Following this finding, I plan to explore the lexical function approach (Guevara
 </blockquote>
 
 <blockquote>
-[News] September 18, 2020: [Our work has been accepted for a paper presentation at LSA 2021 Annual Meeting](_news/2020-09-18-lsa2021.md)
+[News] September 18, 2020: [Our work has been accepted for a paper presentation at LSA 2021 Annual Meeting](news/2020-09-18-lsa2021.md)
 </blockquote>
 </details>
 
