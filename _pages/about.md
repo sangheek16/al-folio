@@ -20,11 +20,11 @@ social: true
 
 Hello!
 
-I am a second year Linguistics PhD student at [the University of Chicago](https://linguistics.uchicago.edu/). I am also a lab member of [Ming Xiang](https://lucian.uchicago.edu/blogs/mingxiang/)’s [Language Processing Laboratory](https://lucian.uchicago.edu/blogs/lpl/).
+I am a third year Linguistics PhD student at [the University of Chicago](https://linguistics.uchicago.edu/). I am also a lab member of [Ming Xiang](https://lucian.uchicago.edu/blogs/mingxiang/)’s [Language Processing Laboratory](https://lucian.uchicago.edu/blogs/lpl/).
 
-I mainly do psycholinguistics with a focus on semantics & pragmatics. My research interest is on language representation, language processing mechanisms, and their intertwined relationship. I am also interested in computational modeling of language comprehension.
+I mainly do psycholinguistics with a focus on semantics & pragmatics. I am interested in the language processing mechanism, and cognitive modeling. I also do computational linguistics as a side project, with a particular focus on the interpretability of language models.
 
-I have a B.A. in Second Language Acquisition and Teaching. In the past, I have worked on L2 processing, including reflexive resolution, and acquisition of morphological and article system.
+I have a B.A. in Second Language Acquisition and Teaching. In the past, I have worked on L2 processing of reflexive resolution, and the acquisition of morphology and the article system.
 
 <b>How to pronounce 'Sanghee'</b>: [sɑŋhi] [[Korean version](/assets/audio/sanghee.m4a)] [[Easier version](/assets/audio/sanghee_eng.m4a)]
 
