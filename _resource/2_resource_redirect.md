@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Journal Scraping
-description: my preliminary Python code to extract key words and build word cloud from psycholinguistics journals (ver. July 25; currently only includes JML)
-img: /assets/img/cloud-with-lightning-emoji.png
-redirect: https://github.com/sangheek16/scraping-journal
+title: Useful Links
+description: All sorts of useful links related to running experiments online, data analysis, NLP, etc.
+img: /assets/img/clip-emoji.png
+redirect: https://www.notion.so/My-notes-and-some-useful-links-fdd80e8776d7469f9da98c382cc97857
 importance: 3
 ---
 

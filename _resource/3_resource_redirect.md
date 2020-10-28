@@ -1,9 +1,9 @@
 ---
 layout: page
-title: My Tool Wiki
-description: My Tool Wiki contains different sorts of sources I referred to when using Python, Github, R Studio, etc. This page gets updated frequently.
-img: /assets/img/robot-emoji.png
-redirect: https://www.notion.so/6b4c897e914d4c2aaf8fdf9984973a26?v=3c336fc05fff4ac7bdfb4c4b8c4b1265
+title: Journal Scraping
+description: This contains my preliminary Python code to extract key words and build word cloud from psycholinguistics journals (ver. July 25; currently only includes JML)
+img: /assets/img/cloud-with-lightning-emoji.png
+redirect: https://github.com/sangheek16/scraping-journal
 importance: 3
 ---
 
