@@ -1,6 +1,6 @@
 ---
 layout: page
-title: resource
+title: Resource
 permalink: /resource/
 description: A collection of useful resource.
 nav: true
