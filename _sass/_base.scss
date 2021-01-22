@@ -269,13 +269,13 @@ footer.sticky-bottom {
 
 .publications {
   margin-top: 2rem;
-  h2.year {
-    color: $grey-color-light;
+  h3.year {
+    color: $grey-color;
     border-top: 1px solid $grey-color-light;
     padding-top: 1rem;
     margin-top: 0rem;
     margin-bottom: -2rem;
-    text-align: right;
+    text-align: left;
   }
   ol.bibliography {
     list-style: none;
@@ -283,17 +283,17 @@ footer.sticky-bottom {
     margin-top: 0;
 
     li {
-      margin-bottom: 1rem;
-      .abbr {
-        height: 2rem;
-        margin-bottom: 0.5rem;
-        abbr {
-          display: inline-block;
-          background-color: $theme-color;
-          padding-left: 1rem;
-          padding-right: 1rem;
-        }
-      }
+      margin-bottom: 0.5rem;
+      // .abbr {
+      //   height: 2rem;
+      //   margin-bottom: 0.5rem;
+      //   abbr {
+      //     display: inline-block;
+      //     background-color: $theme-color;
+      //     padding-left: 1rem;
+      //     padding-right: 1rem;
+      //   }
+      // }
       span {
         display: block;
       }

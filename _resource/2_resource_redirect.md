@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Useful Links
-description: All sorts of useful links related to running experiments online, data analysis, NLP, etc.
+description: A collection of useful links related to running experiments online, data analysis, NLP, etc.
 img: /assets/img/clip-emoji.png
 redirect: https://www.notion.so/My-notes-and-some-useful-links-fdd80e8776d7469f9da98c382cc97857
 importance: 3

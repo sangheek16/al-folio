@@ -10,34 +10,23 @@ nav: true
 
 <!-- <span style="color:#B71C1C;"> </span> -->
 
-<br>
-<h3> Current projects </h3>
-
-I mainly do psycholinguistics, with a focus on semantics and pragmatics. I am particularly interested in sentence processing, and cognitive modeling. I also work on the evaluation of linguistic interpretability of language models. Click the toggle button to learn more about my ongoing projects.
+My research fields are psycholinguisitcs, computational linguistics, and syntax & semantics. I investigate how humans comprehend language in real-time at a sentence and discourse level. I am also interested in evaluating the interpretability of language models compared to human performance. I also worked on the interpretation of honorifics and politeness expressions, and the speech acts and modality of Korean sentence-final particles.
 
 <details>
-<summary><b>Memory and (not-)at-issue content</b></summary>
+<summary><b>Variability in the agreement attraction effect</b></summary>
 <br>
-  <ul>
-  <li>psycholinguistics</li>
-  <li>semantics and pragmatics</li>
-  <li>memory retrieval</li>
-  </ul>
 
 <blockquote>
-... more to come
+Agreement attraction is an effect that has been extensively reported across different structures and languages. This effect predicts that for sentences like, “The hunter who accompanied the sharpshooter(s) {was/*were} capable of finding deer in the forest”, would be read faster and be judged more acceptable if there is an intervening plural noun (sharpshooters) between the singular subject and the verb. Through a series of four experiments, however, we raise the question of the reliability of the agreement attraction effect. Our four experiments show null results for the standard number agreement attraction effect. This is in line with recent report on the absence of the attraction effect, and it calls for more nuanced investigations of the processing mechanisms involved in this phenomenon.
+
 </blockquote>
 
 </details>
 
 
 <details>
-<summary><b>Modeling linguistic composition</b></summary>
+<summary><b>Evaluating existing language models</b></summary>
 <br>
-  <ul>
-  <li>computational linguistics</li>
-  <li>computational semantics</li>
-  </ul>
 
 <blockquote>
 I tested how well the existing compositionality functions capture compositionlaity in natural language, particularly concerning ‘adjective + noun’ phrases. I used four types of existing categorization of adjectives that exhibit a different inferential pattern--intersective, subsective, non-subsective, and privative. I used a constant noun that uniformly combines with these four types of adjectives. Based on the <code>word2vec</code> model (<a href="https://arxiv.org/abs/1301.3781">Mikolov et al. 2013</a>), I evaluated compositionality of variants of the weighted additive and the multiplicative model (e.g., Mitchell & Lapata <a href="https://www.aclweb.org/anthology/P08-1028/">2008</a>; <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/j.1551-6709.2010.01106.x">2010</a>). The correlation coefficients with the newly collected human behavior result were used as an evaluation metric. The results showed that a certain type of weighted additive model performs better than the multiplicative model in general. Crucially, the results showed that the models perform differently depending on the type of the adjectives, which serve as evidence that the compositionality function may/should be tuned according to the adjective type. <i>Manuscript available upon request.</i>
@@ -50,33 +39,59 @@ Following this finding, I plan to explore the lexical function approach (Guevara
 </details>
 
 <details>
-<summary><b>Understanding iconicity in American Sign Language using Vector Space Model</b></summary>
+<summary><b>A vector space approach to understanding the relation of meaning and sound in sign language</b></summary>
 <br>
-  <ul>
-  <li>American Sign Language (ASL)</li>
-  <li>computational linguistics</li>
-  <li>computational semantics</li>
-  </ul>
 
 <blockquote>
-... in collaboration with Emre Hakgüder, Casey Ferrara, and Aurora Martinez del Rio
+Title: Correlation of lexical semantics and phonology of American Sign Language: A vector space approach <br>
+This is a collaborative work Emre Hakgüder, Casey Ferrara, Aurora Martinez del Rio, and Diane Brentari. In this study, we created a semantic vector space model (VSM) for lexical word meaning in ASL and use it to investigate whether there is a relationship between the semantic and phonological properties of signs. We hypothesize that clusters of ASL words that are related in meaning are likely to have phonological similarities, basing our hypothesis on the many observations that transparent iconicity can be found at different levels of the grammar in sign languages, including at the lexical level. We show that the more neatly the ASL lexicon is semantically organized, the greater the phonological similarity within its clusters.
 </blockquote>
 
 <blockquote>
-<b>[News]</b> September 18, 2020: Our work has been accepted for a paper presentation at LSA 2021 Annual Meeting
+<b>[News]</b> January 8, 2021: We presented our paper at <a href="https://www.linguisticsociety.org/abstract/identifying-correlations-between-lexical-semantics-and-phonology-asl-vector-space-approachLSA">Linguistics Society of America 2021 Annual Meeting</a> <br>
+<b>[News]</b> September 18, 2020: Our work has been accepted for a paper presentation at Linguistics Society of America 2021 Annual Meeting
+
+</blockquote>
+</details>
+
+<details>
+<summary><b>Honorifics and politeness in syntax</b></summary>
+<br>
+
+<blockquote>
+</blockquote>
+
+<blockquote>
+<b>[News]</b> 2019: My work, "Allocutive agreement in Korean under cyclic Agree" is published in Proceedings of the Linguistic Society. While subject-verb agreement (e.g., 'she goes' rather than 'she go') is known to be absent in Korean, one salient agreement that happens is the honorific agreement. When certain nouns such as 'grandparents', 'teacher', or 'executive' is suffixed with an honorifying marker, '-kkeyse', a verbal suffix, '-si' is expected to occur and agree with the subject. I showcase understudied cases where an honorifying '-si' is used even when the subject is not qualified for being honorified. For example, if a customer asks a clerk, "Where is the men's clothing?", the clerk would answer, "It is on the fifth floor." Interestingly, clerks would answer with an honorifying suffix '-si' after what corresponds to 'is' in Korean. I propose a structural representation that integrates discourse participants into syntactic representation, which correctly predicts the curious use of honorifying '-si' verbal suffix with a non-honorifiable subject.
+
+</blockquote>
+</details>
+
+<details>
+<summary><b>Speech acts and modality of sentence-final particles in Korean</b></summary>
+<br>
+
+<blockquote>
+Title: Questioning, asserting, and making an order without a verb in Korean <br> <br>
+
+Abstract: This paper explores a case of an embedded attitude with the use of clause type particle and the attitudinal reportative particle in Korean. The crucial example here is a case where an embedded clause alone, headed by a complementizer -ko, is used as an independent utterance even when it is not used as a fragment answer. This structure, which I refer to as the ‘stand-alone -ko structure’, can not only embed different types of clause type particles (e.g., declarative, interrogative, and imperative) but also have different semantic meanings depending on the boundary tone that follows. I show that the stand-alone structure can be expressed as what I refer to as the ‘full form’, which is an NP that embeds a CP. Grounded on an existing proposal on the choice of mood in relation to (non)veridicality, I argue that the stand-alone structure amounts to an embedded clause that encodes an epistemic agent’s attitude towards the embedded propositional content. I also suggest that the boundary tone has a function similar to that of speech act, expressing speaker’s certainty towards the embedded proposition and marking the discourse function of an ambiguous structure.
+</blockquote>
+
+<blockquote>
+<b>[News]</b> August 22, 2020: I have successfully defended my first qualifying paper in August 21, 2020. I am grateful to Chris Kennedy and Anastasia Giannakidou, who provided invaluable comments and great support from the beginning to the end of the process. Manuscript is available upon request. <br>
+<b>[News]</b> September 26, 2019: I presented a poster at the Workshop on Altaic Formal Linguistics (WAFL) 15. I presented two understudied sentence-final particles in Korean and their unique function by elaborating their use and intonational pattern. I argued that these particles have a 'call-back' function, as they refer back to the previous speech act or utterance and bring it back to the current discourse, just as anaphoric expressions.
 
 </blockquote>
 </details>
 
 <br>
-<h3> Publications and Conference Presentations </h3>
-
-a collection of my research published and presented
+<h2> publications and conference presentations </h2>
 
 <div class="publications">
 
 {% for y in page.years %}
-  <h2 class="year">{{y}}</h2>
+  <!-- <h2 class="year">{{y}}</h2> -->
+  <h3 class="year">{{y}}</h3>
   {% bibliography -f papers -q @*[year={{y}}]* %}
 {% endfor %}
 

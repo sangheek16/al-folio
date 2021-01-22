@@ -20,13 +20,13 @@ social: true
 
 Hello!
 
-I am a third year Linguistics PhD student at [the University of Chicago](https://linguistics.uchicago.edu/). I am also a lab member of [Ming Xiang](https://lucian.uchicago.edu/blogs/mingxiang/)’s [Language Processing Laboratory](https://lucian.uchicago.edu/blogs/lpl/).
+I am a third year Linguistics PhD student at [the University of Chicago](https://linguistics.uchicago.edu/). I am a lab member of [The Language Processing Laboratory](https://lucian.uchicago.edu/blogs/lpl/), directed by [Ming Xiang](https://lucian.uchicago.edu/blogs/mingxiang/).
 
-I mainly do psycholinguistics with a focus on semantics & pragmatics. I am interested in the language processing mechanism, and cognitive modeling. I also do computational linguistics as a side project, with a particular focus on the interpretability of language models.
+My research fields are psycholinguisitcs, computational linguistics, and syntax & semantics. I investigate how humans comprehend language in real-time. I am also interested in evaluating language models comparing to human performance.
 
-I have a B.A. in Second Language Acquisition and Teaching. In the past, I have worked on L2 processing of reflexive resolution, and the acquisition of morphology and the article system.
+I have a B.A. in English Language Education, which is a study of second language acquisition and foreign language teaching. I own a Secondary Teaching Certificate, granted by the Ministry of Education, Republic of Korea. In the past, I worked on bilinguals' and second language learners' acquisition and real-time comprehension of reflexive pronouns, past tense verb, and English articles.
 
-<b>How to pronounce 'Sanghee'</b>: [sɑŋhi] [[Korean version](/assets/audio/sanghee.m4a)] [[Easier version](/assets/audio/sanghee_eng.m4a)]
+<b>How to pronounce 'Sanghee'</b>: [saŋhi] [[Korean version](/assets/audio/sanghee.m4a)] [[Easier version](/assets/audio/sanghee_eng.m4a)]
 
 &nbsp;
 
